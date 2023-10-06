@@ -1,0 +1,9 @@
+N_EBOOK;TITULO;AUTOR;MES;ANO;LINK
+100714;The Sin that was His;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000651h.html
+102714;Pawned;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000821h.html
+102954;On the Iron at Big Cloud;Frank L. Packard;Dec;2010;http://gutenberg.net.au/ebooks10/1000911h.html
+104960;The Night Operator;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000691h.html
+104960;The Night Operator;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000691h.html
+102954;On the Iron at Big Cloud;Frank L. Packard;Dec;2010;http://gutenberg.net.au/ebooks10/1000911h.html
+102714;Pawned;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000821h.html
+100714;The Sin that was His;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000651h.html

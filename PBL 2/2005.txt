@@ -1,0 +1,19 @@
+N_EBOOK;TITULO;AUTOR;MES;ANO;LINK
+358912;The Sinister Man;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501121.txt
+354816;The People of the River;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501111.txt
+350720;The Man who Bought London;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501101.txt
+346624;The Face in the Night;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501091.txt
+342528;The Avenger;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501081.txt
+338432;The Survivor;E. Phillips Oppenheim;Nov;2005;http://gutenberg.net.au/ebooks05/0501071.txt
+334336;The Way of the Spirit;H. Rider Haggard;Nov;2005;http://gutenberg.net.au/ebooks05/0501061.txt
+301472;Creative English;H. W. Brown;Oct;2005;http://gutenberg.net.au/ebooks05/0501041p.pdf
+301216;Fact'ry 'Ands;Edward Dyson;Oct;2005;http://gutenberg.net.au/ebooks05/0501031.txt
+300960;Benno and Some of the Push;Edward Dyson;Oct;2005;http://gutenberg.net.au/ebooks05/0501021.txt
+293280;Collected Stories;F. Scott Fitzgerald;Sep;2005;http://gutenberg.net.au/ebooks05/0500841h.html
+268192;The Moon Men;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500221h.html
+267936;Tarzan the Magnificent;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500211h.html
+267424;Tarzan the Invincible;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500191h.html
+267168;Land of Terror;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500181h.html
+266912;The Lad and the Lion;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500171h.html
+266656;The Girl From Hollywood;Edgar Rice Burroughs;Feb;2005;http://gutenberg.net.au/ebooks05/0500161h.html
+141216;Four Faultless Felons;G. K. Chesterton;May;2005;http://gutenberg.net.au/ebooks03/0300781h.html

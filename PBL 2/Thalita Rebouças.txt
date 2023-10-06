@@ -1,0 +1,5 @@
+N_EBOOK;TITULO;AUTOR;MES;ANO;LINK
+2222;Tudo por um pop star;Thalita Rebouças;Dez;2003;www.thalitareboucas.com/tpups_2003
+3333;Fala sério, professor!;Thalita Rebouças;Ago;2007;www.thalitareboucas.com/fala_serio_professor
+3333;Fala sério, professor!;Thalita Rebouças;Ago;2007;www.thalitareboucas.com/fala_serio_professor
+2222;Tudo por um pop star;Thalita Rebouças;Dez;2003;www.thalitareboucas.com/tpups_2003
